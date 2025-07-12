@@ -1,4 +1,4 @@
-# 🔐 Extend Azure AD MFA to On-Premises IIS App using Azure AD Application Proxy
+# 🔐 Extend Azure AD MFA to On-Premises
 
 This project demonstrates how to extend **Microsoft Entra ID (Azure AD) Multi-Factor Authentication (MFA)** to an **on-premises web application** hosted on a local IIS server using **Azure AD Application Proxy**.
 
